@@ -14,4 +14,4 @@ Part 1 - Preprocessing: [github] / [nbviewer]
 
 Part 2 - Processing: [github]/ [nbviewer]
 
-This is a Machine Learning Classification problem that consists on estimating the likelihood of an audiobook customer making another purchase (conversion), given past purchases and usage information. If a potential recurring customer can be identified, marketing campaings can be more effectively by focusing efforts and resources to these clients.
+This is a Machine Learning Classification problem that consists on estimating the likelihood of an audiobook customer making another purchase (conversion), given past purchases and usage information. If a potential recurring customer can be identified, marketing campaings can be more effectively by focusing efforts and resources to these clients. This project deals with imbalanced dataset and some data manipulation, as wells as using Deep Learning to build the model. 
