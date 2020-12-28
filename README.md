@@ -15,3 +15,9 @@ Part 1 - Preprocessing: [github] / [nbviewer]
 Part 2 - Processing: [github]/ [nbviewer]
 
 This is a Machine Learning Classification problem that consists on estimating the likelihood of an audiobook customer making another purchase (conversion), given past purchases and usage information. If a potential recurring customer can be identified, marketing campaings can be more effectively by focusing efforts and resources to these clients. This project deals with imbalanced dataset and some data manipulation, as wells as using Deep Learning to build the model. 
+
+### MNIST Classification
+
+[github] / [nbviewer]
+
+MNIST is one of the most popular Machine Learning projects and very useful to get starting on Deep Learning with Tensorflow. The goal is to build a model that is able to correctly assign a digit from 0 to 9 to an handwritten single digit 28x28 pixel image. To train the model, a dataset containing 70,000 images is used, provided by Yann LeCun's website.
