@@ -8,3 +8,10 @@ These mostly consist on projects focused on learning the key aspects of machine 
 [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/startup-opportunities/startup-opportunities.ipynb) / [nbviewer]
 
 This is a multilinear regression problem in which a Venture Capital Fund is looking for profitable startups to invest into. The dataset given is already mostly preprocessed and contains information of 50 different startups, such as expenses and locations and the goal is to build a model wich can predict the profit. It mainly focuses on data visualization, stardarizing variables and dealing with multiple inputs. 
+
+### Audiobook Customer Conversion
+Part 1 - Preprocessing: [github] / [nbviewer]
+
+Part 2 - Processing: [github]/ [nbviewer]
+
+This is a Machine Learning Classification problem that consists on estimating the likelihood of an audiobook customer making another purchase (conversion), given past purchases and usage information. If a potential recurring customer can be identified, marketing campaings can be more effectively by focusing efforts and resources to these clients.
