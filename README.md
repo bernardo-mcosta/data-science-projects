@@ -10,7 +10,7 @@ These mostly consist on projects focused on learning the key aspects of machine 
 This is a multilinear regression problem in which a Venture Capital Fund is looking for profitable startups to invest into. The dataset given is already mostly preprocessed and contains information of 50 different startups, such as expenses and locations and the goal is to build a model wich can predict the profit. It mainly focuses on data visualization, stardarizing variables and dealing with multiple inputs. 
 
 ### Audiobook Customer Conversion
-Part 1 - Preprocessing: [github] / [nbviewer]
+Part 1 - Preprocessing: [github]() / [nbviewer]
 
 Part 2 - Processing: [github]/ [nbviewer]
 
@@ -18,6 +18,14 @@ This is a Machine Learning Classification problem that consists on estimating th
 
 ### MNIST Classification
 
-[github] / [nbviewer]
+[github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/mnist-tensorflow.ipynb) / [nbviewer]
 
 MNIST is one of the most popular Machine Learning projects and very useful to get starting on Deep Learning with Tensorflow. The goal is to build a model that is able to correctly assign a digit from 0 to 9 to an handwritten single digit 28x28 pixel image. To train the model, a dataset containing 70,000 images is used, provided by Yann LeCun's website.
+
+### Employee Absenteeism Prediction
+
+Part 1 - Preprocessing: [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/absenteeism-prediction/Abstenteeism_Processing.ipynb) / [nbviewer]
+
+Part 2 - Processing: [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/absenteeism-prediction/Abstenteeism_Processing.ipynb) / [nbviewer]
+
+The task proposed is to create a model which can predict how likely it is for an employee to be absent from work during normal working hours, given some inputs regarding various employee characteristics, such as age, number of children, distance to work and others. In order to achieve this goal, data regarding characteristics of employees along with past absenteeism information is provided.
