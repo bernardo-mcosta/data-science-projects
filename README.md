@@ -24,7 +24,7 @@ MNIST is one of the most popular Machine Learning projects and very useful to ge
 
 ### Employee Absenteeism Prediction
 
-Part 1 - Preprocessing: [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/absenteeism-prediction/Abstenteeism_Processing.ipynb) / [nbviewer]
+Part 1 - Preprocessing: [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/absenteeism-prediction/Abstenteeism_Preprocessing.ipynb) / [nbviewer]
 
 Part 2 - Processing: [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/absenteeism-prediction/Abstenteeism_Processing.ipynb) / [nbviewer]
 
