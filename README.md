@@ -6,7 +6,7 @@ These mostly consist on projects focused on learning the key aspects of machine 
 
 ### *Currently Working on*: Surviving the Titanic
 
-[github] / [nbviewer]
+[github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/titanic/Titanic.ipynb) / [nbviewer]
 
 Predicting who survived the Titanic disaster is the most famous Kaggle competition and is also a great way for anyone to start practicing machine learning. The goal is to classify whether someone survived or not the shipreck. My first try achieved and accuracy of roughly 79% using a simpel Logistic Regression, but I'm currently experimenting with other regression models. This problem is quite interesting for data exploration and manipulation and getting insights of the who had more chances of surviving without even building the model. 
 
@@ -24,9 +24,9 @@ Part 2 - Processing: [github](https://github.com/bernardo-mcosta/data-science-pr
 The task proposed is to create a Logistic Regression model to predict how likely it is for an employee to be absent from work during normal working hours, given some inputs regarding various employee characteristics, such as age, number of children, distance to work and others. In order to achieve this goal, data regarding characteristics of employees along with past absenteeism information is provided.
 
 ### Audiobook Customer Conversion
-Part 1 - Preprocessing: [github]() / [nbviewer]
+Part 1 - Preprocessing: [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/audiobook-clients/Audiobooks_business_case_preprocessing.ipynb) / [nbviewer]
 
-Part 2 - Processing: [github]/ [nbviewer]
+Part 2 - Processing: [github](https://github.com/bernardo-mcosta/data-science-projects/blob/main/notebooks/audiobook-clients/Audiobooks_business_case_processing.ipynb) / [nbviewer]
 
 This is a Machine Learning Classification problem that consists on estimating the likelihood of an audiobook customer making another purchase (conversion), given past purchases and usage information. If a potential recurring customer can be identified, marketing campaings can be more effectively by focusing efforts and resources to these clients. This project deals with imbalanced dataset and some data manipulation, as wells as using Deep Learning to build the model. 
 
